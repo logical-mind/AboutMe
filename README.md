@@ -3,21 +3,11 @@
 <h3 align="center">This is the place where I hack, break and learn stuff.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay090" alt="akshay090" /> </p>
 
-- 🔭 I’m currently working on [my-book-shelf](https://github.com/Akshay090/my-book-shelf)
-
-- 👯 I’m looking to collaborate on [MDX](https://mdxjs.com)
-
-- 🤔 I’m looking for help with [gitifyServer](https://github.com/Akshay090/gitifyServer)
-
-- 👨‍💻 All of my projects are available at [here.](here.)
-
-- 📝 I regulary write articles on [https://medium.com/@akshay090](https://medium.com/@akshay090)
-
-- 💬 Ask me about **any JS stuff, creative coding or anime/manga.**
-
-- 📫 How to reach me **aks28id@gmail.com**
-
-- ⚡ Fun fact **💖 🍧**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akshay090&show_icons=true" alt="akshay090" /> </p>
 
